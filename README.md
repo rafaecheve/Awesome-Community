@@ -8,6 +8,7 @@ Repository about how to build communities online
   3. [How to Host Amazing Community Events: Advice from Pros at Yelp, Eventbrite, and Product Hunt](http://cmxhub.com/how-to-host-amazing-community-events-advice-from-pros-at-yelp-eventbrite-and-product-hunt/)
   4. [Open source as a startup's competitive advantage](http://www.dillonforrest.com/startup/open-source-as-a-startups-competitive-advantage/)
   5. [To Build an Entrepreneurial Community, Listen to the Entrepreneurs](http://tech.co/della-rucker-engaging-cities-build-an-entrepreneurial-community-video-2015-03)
+  6. [Reasons Community Professionals Need to Learn How to Code](http://cmxhub.com/coding-for-community-professionals/)
 
 ## Influencers
 [@eriktorenberg](https://twitter.com/eriktorenberg)
