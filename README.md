@@ -12,3 +12,7 @@ Repository about how to build communities online
 
 ## Influencers
 [@eriktorenberg](https://twitter.com/eriktorenberg)
+
+## Open Source Comunities
+
+- [Docker Party](http://docker.party)
