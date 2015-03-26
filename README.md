@@ -9,6 +9,7 @@ Repository about how to build communities online
   4. [Open source as a startup's competitive advantage](http://www.dillonforrest.com/startup/open-source-as-a-startups-competitive-advantage/)
   5. [To Build an Entrepreneurial Community, Listen to the Entrepreneurs](http://tech.co/della-rucker-engaging-cities-build-an-entrepreneurial-community-video-2015-03)
   6. [Reasons Community Professionals Need to Learn How to Code](http://cmxhub.com/coding-for-community-professionals/)
+  7. [How Outbounding Uses the Hook Model to Capture Thousands of Content Creators and Consumers](http://cmxhub.com/outbounding-hook-model/)
 
 ## Influencers
 [@eriktorenberg](https://twitter.com/eriktorenberg)
