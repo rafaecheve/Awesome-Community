@@ -10,6 +10,7 @@ Repository about how to build communities online
   5. [To Build an Entrepreneurial Community, Listen to the Entrepreneurs](http://tech.co/della-rucker-engaging-cities-build-an-entrepreneurial-community-video-2015-03)
   6. [Reasons Community Professionals Need to Learn How to Code](http://cmxhub.com/coding-for-community-professionals/)
   7. [How Outbounding Uses the Hook Model to Capture Thousands of Content Creators and Consumers](http://cmxhub.com/outbounding-hook-model/)
+  8. [5 Ingredients for Building Community](https://medium.com/designer-fund/5-ingredients-for-building-community-11f30099a14d)
 
 ## Influencers
 [@eriktorenberg](https://twitter.com/eriktorenberg)
