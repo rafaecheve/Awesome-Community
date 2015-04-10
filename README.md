@@ -15,6 +15,7 @@ Repository about how to build communities online
   7. [How Outbounding Uses the Hook Model to Capture Thousands of Content Creators and Consumers](http://cmxhub.com/outbounding-hook-model/)
   8. [5 Ingredients for Building Community](https://medium.com/designer-fund/5-ingredients-for-building-community-11f30099a14d)
   9. [BUILDING AN ONLINE COMMUNITY, PART 1](https://megan-holstein-8udz.squarespace.com/blog/2015/2/26/sedf9mdfyhwh2rs1fj3wrg5k8h2qrx)
+  10. [10 Tips to Deepen Your Community from Meetup CEO Scott Heiferman](http://cmxhub.com/scott-heiferman-meetup/)
 
 ## Influencers
 [@eriktorenberg](https://twitter.com/eriktorenberg)
