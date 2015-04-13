@@ -18,7 +18,8 @@ Repository about how to build communities online
   10. [10 Tips to Deepen Your Community from Meetup CEO Scott Heiferman](http://cmxhub.com/scott-heiferman-meetup/)
 
 ## Remote
-[@eriktorenberg](https://twitter.com/eriktorenberg)
+[This is What a Remote Office Looks Like](https://zapier.com/learn/the-ultimate-guide-to-remote-working/remote-office-photos/)
+[How to find the perfect remote working setup for you](http://blog.pickcrew.com/how-to-find-the-perfect-remote-working-setup-for-you/)
 
 ## Influencers
 [@eriktorenberg](https://twitter.com/eriktorenberg)
