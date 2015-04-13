@@ -17,6 +17,9 @@ Repository about how to build communities online
   9. [BUILDING AN ONLINE COMMUNITY, PART 1](https://megan-holstein-8udz.squarespace.com/blog/2015/2/26/sedf9mdfyhwh2rs1fj3wrg5k8h2qrx)
   10. [10 Tips to Deepen Your Community from Meetup CEO Scott Heiferman](http://cmxhub.com/scott-heiferman-meetup/)
 
+## Remote
+[@eriktorenberg](https://twitter.com/eriktorenberg)
+
 ## Influencers
 [@eriktorenberg](https://twitter.com/eriktorenberg)
 
