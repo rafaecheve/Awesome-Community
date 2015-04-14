@@ -20,6 +20,7 @@ Repository about how to build communities online
 ## Remote
  1. [This is What a Remote Office Looks Like](https://zapier.com/learn/the-ultimate-guide-to-remote-working/remote-office-photos/)
  2. [How to find the perfect remote working setup for you](http://blog.pickcrew.com/how-to-find-the-perfect-remote-working-setup-for-you/)
+ 3. [The Startup Guide to Hiring a Remote Customer Support Rep](https://baremetrics.com/blog/startup-guide-to-hiring-remote-customer-support)
 
 ## Influencers
 [@eriktorenberg](https://twitter.com/eriktorenberg)
