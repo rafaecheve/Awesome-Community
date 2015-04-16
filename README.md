@@ -16,6 +16,7 @@ Repository about how to build communities online
   8. [5 Ingredients for Building Community](https://medium.com/designer-fund/5-ingredients-for-building-community-11f30099a14d)
   9. [BUILDING AN ONLINE COMMUNITY, PART 1](https://megan-holstein-8udz.squarespace.com/blog/2015/2/26/sedf9mdfyhwh2rs1fj3wrg5k8h2qrx)
   10. [10 Tips to Deepen Your Community from Meetup CEO Scott Heiferman](http://cmxhub.com/scott-heiferman-meetup/)
+  11. [The 4 Unconventional Communities That Inspire Stack Exchange Community Builder Ana Hevesi](http://cmxhub.com/ana-hevesi-community/)
 
 ## Remote
  1. [This is What a Remote Office Looks Like](https://zapier.com/learn/the-ultimate-guide-to-remote-working/remote-office-photos/)
