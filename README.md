@@ -18,6 +18,11 @@ Repository about how to build communities online
   10. [10 Tips to Deepen Your Community from Meetup CEO Scott Heiferman](http://cmxhub.com/scott-heiferman-meetup/)
   11. [The 4 Unconventional Communities That Inspire Stack Exchange Community Builder Ana Hevesi](http://cmxhub.com/ana-hevesi-community/)
 
+
+## Articles
+ 1. [Great Companies Can Be Built Anywhere](https://www.linkedin.com/pulse/great-companies-can-built-anywhere-adeo-ressi)
+
+
 ## Remote
  1. [This is What a Remote Office Looks Like](https://zapier.com/learn/the-ultimate-guide-to-remote-working/remote-office-photos/)
  2. [How to find the perfect remote working setup for you](http://blog.pickcrew.com/how-to-find-the-perfect-remote-working-setup-for-you/)
