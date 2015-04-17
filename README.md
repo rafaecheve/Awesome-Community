@@ -21,6 +21,7 @@ Repository about how to build communities online
 
 ## Articles
  1. [Great Companies Can Be Built Anywhere](https://www.linkedin.com/pulse/great-companies-can-built-anywhere-adeo-ressi)
+ 2. [$2M invested in Founder Institute Colombia Graduates!](http://www.tropicalgringo.com/english/general-english/2m-fi-colombia-graduates/)
 
 
 ## Remote
