@@ -30,6 +30,9 @@ Repository about how to build communities online
  2. [How to find the perfect remote working setup for you](http://blog.pickcrew.com/how-to-find-the-perfect-remote-working-setup-for-you/)
  3. [The Startup Guide to Hiring a Remote Customer Support Rep](https://baremetrics.com/blog/startup-guide-to-hiring-remote-customer-support)
 
+## Startup Ecosystem
+ 1. [Startup Ecosystem Canvas Template](http://fi.co/canvas_template)
+
 ## Influencers
 [@eriktorenberg](https://twitter.com/eriktorenberg)
 
