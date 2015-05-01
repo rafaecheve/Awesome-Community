@@ -18,6 +18,7 @@ Repository about how to build communities online
   10. [10 Tips to Deepen Your Community from Meetup CEO Scott Heiferman](http://cmxhub.com/scott-heiferman-meetup/)
   11. [The 4 Unconventional Communities That Inspire Stack Exchange Community Builder Ana Hevesi](http://cmxhub.com/ana-hevesi-community/)
   12. [The 7 (Mostly Free) Tools Product Hunt Used to Build their Early-Stage Community](http://cmxhub.com/7-essential-mostly-free-tools-for-building-community-at-early-stage-startups/)
+  13. [5 Steps to Organizing a User Group Program That Will Increase Retention 15%+](http://cmxhub.com/5-steps-to-organizing-a-user-group/)
 
 
 ## Articles
