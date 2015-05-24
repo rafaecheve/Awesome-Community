@@ -20,6 +20,7 @@ Repository about how to build communities online
   12. [The 7 (Mostly Free) Tools Product Hunt Used to Build their Early-Stage Community](http://cmxhub.com/7-essential-mostly-free-tools-for-building-community-at-early-stage-startups/)
   13. [5 Steps to Organizing a User Group Program That Will Increase Retention 15%+](http://cmxhub.com/5-steps-to-organizing-a-user-group/)
   14. [What I Learned about Community from Sending 300+ Emails Manually](http://cmxhub.com/startup-community-dwilly/)
+  15. [Community Management](https://www.linkedin.com/pulse/community-management-jason-saltzman?trk=prof-post)
 
 
 ## Articles
