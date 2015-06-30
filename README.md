@@ -21,12 +21,14 @@ Repository about how to build communities online
   13. [5 Steps to Organizing a User Group Program That Will Increase Retention 15%+](http://cmxhub.com/5-steps-to-organizing-a-user-group/)
   14. [What I Learned about Community from Sending 300+ Emails Manually](http://cmxhub.com/startup-community-dwilly/)
   15. [Community Management](https://www.linkedin.com/pulse/community-management-jason-saltzman?trk=prof-post)
+  16. [mobilize.io](https://www.mobilize.io)
 
 
 ## Articles
  1. [Great Companies Can Be Built Anywhere](https://www.linkedin.com/pulse/great-companies-can-built-anywhere-adeo-ressi)
  2. [$2M invested in Founder Institute Colombia Graduates!](http://www.tropicalgringo.com/english/general-english/2m-fi-colombia-graduates/)
  3. [Great Startups Can Be Built Anywhere: A Look at Regional Entrepreneurial Strengths](http://fi.co/posts/14111)
+ 4. [CMX Guide to Community Platforms for Free](http://cmxhub.com/cmx-guide-to-community-platforms/)
 
 
 ## Remote
