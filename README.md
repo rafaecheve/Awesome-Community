@@ -22,6 +22,7 @@ Repository about how to build communities online
   14. [What I Learned about Community from Sending 300+ Emails Manually](http://cmxhub.com/startup-community-dwilly/)
   15. [Community Management](https://www.linkedin.com/pulse/community-management-jason-saltzman?trk=prof-post)
   16. [mobilize.io](https://www.mobilize.io)
+  17. [How to build up a community for your startup](http://tech.eu/features/5248/community-manager-tips-product-hunt-eyeem-fishbrain/)
 
 
 ## Articles
