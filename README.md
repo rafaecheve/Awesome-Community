@@ -23,6 +23,7 @@ Repository about how to build communities online
   15. [Community Management](https://www.linkedin.com/pulse/community-management-jason-saltzman?trk=prof-post)
   16. [mobilize.io](https://www.mobilize.io)
   17. [How to build up a community for your startup](http://tech.eu/features/5248/community-manager-tips-product-hunt-eyeem-fishbrain/)
+  18. [Creating Unique Community Events with General Assembly Founder Matt Brimer](http://cmxhub.com/creating-unique-community-events-with-general-assembly-founder-matt-brimer)
 
 
 ## Articles
