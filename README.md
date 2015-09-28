@@ -24,6 +24,7 @@ Repository about how to build communities online
   16. [mobilize.io](https://www.mobilize.io)
   17. [How to build up a community for your startup](http://tech.eu/features/5248/community-manager-tips-product-hunt-eyeem-fishbrain/)
   18. [Creating Unique Community Events with General Assembly Founder Matt Brimer](http://cmxhub.com/creating-unique-community-events-with-general-assembly-founder-matt-brimer)
+  19. [The 41 Most Exciting Jobs We’ve Seen in the Community Profession](http://cmxhub.com/most-exciting-jobs-community-fall-2015/?utm_source=Email+Subscribers&utm_campaign=ebb879a734-Hub_Post_Jobs_Fall_2015&utm_medium=email&utm_term=0_1a473c9811-ebb879a734-232712261)
 
 
 ## Articles
