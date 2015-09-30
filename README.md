@@ -49,3 +49,41 @@ Repository about how to build communities online
 ## Open Source Comunities
 
 - [Docker Party](http://docker.party)
+
+## Tech Meetup Checklisk
+
+###What to print and bring to the event
+
+- Guest list (print or if you use eventbrite, I highly recommend you check people in through the site…fast and easy)
+- Space layout (tables, chairs, stools for speakers, location of photobooth, sign in table, table for giveaways, etc)
+- Quarter sheet fliers for upcoming events
+- Banner
+- Name tags
+- Giveaways
+- Sponsor posters
+- Shot list
+- Panelist background (email to team as PDF so everyone has it just in case)
+- Cash / change
+- List of questions for the panelists
+
+###Decide who is responsible for what
+
+- Guest List
+- Volunteer care
+- Writing the blog recap
+- Managing any deliveries (food, beer, ice, etc)
+- Know who to contact if delivery doesn’t show up on time.
+- Make sure payment has been made, and if not be sure you have cash to pay.
+- Projector set up
+- Seating set up
+- Video set up
+
+###During the panel
+
+- Thank host
+- Thank sponsors
+- Thank team
+- Ice breaker, introduce yourself to someone you don’t know near you
+- Ask how they found out about event and what they hope to get out of attending
+- Plug next event
+
