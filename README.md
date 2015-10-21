@@ -33,6 +33,7 @@ Repository about how to build communities online
  3. [Great Startups Can Be Built Anywhere: A Look at Regional Entrepreneurial Strengths](http://fi.co/posts/14111)
  4. [CMX Guide to Community Platforms for Free](http://cmxhub.com/cmx-guide-to-community-platforms/)
  5. [21 Case Studies that will Teach You How to Build Online Community for Your Business](http://cmxhub.com/20-examples-of-successful-online-communities/)
+ 6. [10 Tips to Deepen Your Community from Meetup CEO Scott Heiferman](http://cmxhub.com/scott-heiferman-meetup/)
 
 
 ## Remote
