@@ -48,11 +48,11 @@ Repository about how to build communities online
 ## Influencers
 [@eriktorenberg](https://twitter.com/eriktorenberg)
 
-## Open Source Comunities
+## Open Source Communities
 
 - [Docker Party](http://docker.party)
 
-## Tech Meetup Checklisk
+## Tech Meetup Checklist
 
 ###What to print and bring to the event
 
